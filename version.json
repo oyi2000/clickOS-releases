@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "3.2.7",
+  "versionCode": 23,
+  "versionName": "3.2.8",
   "downloadUrl": "https://github.com/oyi2000/clickOS-releases/raw/main/ClickOS.apk",
-  "changelog": "EPG: fix La Séptima vs La 7 CyLTV, long-press OK e INFO en parrilla, y navegacion UP al dock desde boton guia"
+  "changelog": "EPG: optimizacion masiva de rendimiento, pre-renderizado en background y apertura instantanea de la guia"
 }
