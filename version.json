@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "3.2.0",
+  "versionCode": 16,
+  "versionName": "3.2.1",
   "downloadUrl": "https://github.com/oyi2000/clickOS-releases/raw/main/ClickOS.apk",
-  "changelog": "Nueva Guía EPG en Parrilla Completa para canales TDT (programación de 24 horas, sinopsis y horarios)"
+  "changelog": "Parrilla EPG: colores de canal en bloques y corrección de solapamientos"
 }
