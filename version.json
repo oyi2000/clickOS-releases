@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "3.2.5",
+  "versionCode": 21,
+  "versionName": "3.2.6",
   "downloadUrl": "https://github.com/oyi2000/clickOS-releases/raw/main/ClickOS.apk",
-  "changelog": "EPG: linea de tiempo actual, filtro de pasado en bloques y fix navegacion UP desde boton guia"
+  "changelog": "EPG: long-press OK mando abre detalle del programa, fix navegacion UP al dock desde boton guia"
 }
