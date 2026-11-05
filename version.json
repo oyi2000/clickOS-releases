@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "3.2.8",
+  "versionCode": 24,
+  "versionName": "3.2.9",
   "downloadUrl": "https://github.com/oyi2000/clickOS-releases/raw/main/ClickOS.apk",
-  "changelog": "EPG: optimizacion masiva de rendimiento, pre-renderizado en background y apertura instantanea de la guia"
+  "changelog": "EPG: rediseño cabecera de canal, separacion entre lista de canales y parrilla, y fondo solido sin transparencias"
 }
