@@ -1,0 +1,6 @@
+{
+  "versionCode": 12,
+  "versionName": "3.1.1",
+  "downloadUrl": "https://github.com/oyi2000/clickOS-releases/raw/main/ClickOS.apk",
+  "changelog": "Version inicial con sistema de actualizaciones OTA integrado"
+}
