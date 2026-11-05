@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "3.2.2",
+  "versionCode": 18,
+  "versionName": "3.2.3",
   "downloadUrl": "https://github.com/oyi2000/clickOS-releases/raw/main/ClickOS.apk",
-  "changelog": "EPG: fix Antena 3 con color de TEN y fix solapamiento en canales con eventos cortos (Teledeporte)"
+  "changelog": "EPG: boton Guia TV sin recorte al enfocar y navegacion UP al dock corregida"
 }
