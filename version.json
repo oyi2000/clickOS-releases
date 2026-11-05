@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "3.2.1",
+  "versionCode": 17,
+  "versionName": "3.2.2",
   "downloadUrl": "https://github.com/oyi2000/clickOS-releases/raw/main/ClickOS.apk",
-  "changelog": "Parrilla EPG: colores de canal en bloques y corrección de solapamientos"
+  "changelog": "EPG: fix Antena 3 con color de TEN y fix solapamiento en canales con eventos cortos (Teledeporte)"
 }
