@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "3.2.3",
+  "versionCode": 19,
+  "versionName": "3.2.4",
   "downloadUrl": "https://github.com/oyi2000/clickOS-releases/raw/main/ClickOS.apk",
-  "changelog": "EPG: boton Guia TV sin recorte al enfocar y navegacion UP al dock corregida"
+  "changelog": "EPG: mantener pulsado en programa muestra detalle ampliado con sinopsis, duración y botón Sintonizar"
 }
