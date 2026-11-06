@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "3.2.9",
+  "versionCode": 25,
+  "versionName": "3.3.0",
   "downloadUrl": "https://github.com/oyi2000/clickOS-releases/raw/main/ClickOS.apk",
-  "changelog": "EPG: rediseño cabecera de canal, separacion entre lista de canales y parrilla, y fondo solido sin transparencias"
+  "changelog": "Guía: logo de canal centrado y corrección de codificación de la letra Ñ"
 }
