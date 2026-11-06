@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "3.3.0",
+  "versionCode": 26,
+  "versionName": "3.3.1",
   "downloadUrl": "https://github.com/oyi2000/clickOS-releases/raw/main/ClickOS.apk",
-  "changelog": "Guía: logo de canal centrado y corrección de codificación de la letra Ñ"
+  "changelog": "Guía EPG: logo centrado y corrección completa de Ñ y acentos (españoles y catalanes)"
 }
