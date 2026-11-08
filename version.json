@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "3.4.0",
+  "versionCode": 28,
+  "versionName": "3.4.1",
   "downloadUrl": "https://github.com/oyi2000/clickOS-releases/raw/main/ClickOS.apk",
-  "changelog": "Mando a distancia y teclado móvil por QR + Explorador y reproductor de vídeos USB"
+  "changelog": "Logo centrado y ampliado en guia EPG, arreglo de letra ñ y acentos, mando web sin zoom con controles IPTV y reproduccion de musica en USB"
 }
