@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "3.4.5",
+  "versionCode": 33,
+  "versionName": "3.4.6",
   "downloadUrl": "https://raw.githubusercontent.com/oyi2000/clickOS-releases/main/ClickOS.apk",
-  "changelog": "Rediseño visual completo del Explorador USB estilo macOS/Apple Music, soporte nativo de fotos JPG/PNG, PDF, Word, Excel y reproducción continua/aleatoria"
+  "changelog": "Explorador USB por carpetas por defecto (con opción Todo Mezclado), botón USB en barra superior solo al conectar USB, nuevo explorador unificado en Ajustes, reproductor Apple Music en segundo plano y corrección total de bordes cortados en botones y Ajustes"
 }
