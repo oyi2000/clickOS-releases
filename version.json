@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "3.4.8",
+  "versionCode": 36,
+  "versionName": "3.4.9",
   "downloadUrl": "https://raw.githubusercontent.com/oyi2000/clickOS-releases/main/ClickOS.apk",
-  "changelog": "Mando a distancia trasladado exclusivamente a Ajustes, bloqueo estricto de foco dentro del Explorador de Archivos y Pop-up de actualización modal exclusivo con Actualizar o Cerrar"
+  "changelog": "Solución de solapamiento de Ajustes al hacer scroll, soporte para presentaciones PowerPoint (.ppt, .pptx, .pps, .odp) y navegación Atrás 100% estable en el explorador"
 }
