@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "3.4.3",
+  "versionCode": 31,
+  "versionName": "3.4.4",
   "downloadUrl": "https://raw.githubusercontent.com/oyi2000/clickOS-releases/main/ClickOS.apk",
-  "changelog": "Corrección definitiva de descargas OTA y compatibilidad total con Mi Box y Android TV"
+  "changelog": "Rediseño completo del explorador USB sin filtros de categorías y nuevo reproductor multimedia estilo Apple Music con reproducción continua de carpeta y aleatorio"
 }
