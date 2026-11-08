@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "3.4.1",
-  "downloadUrl": "https://github.com/oyi2000/clickOS-releases/releases/download/v3.4.1/ClickOS.apk",
-  "changelog": "Logo centrado y ampliado en guia EPG, arreglo de letra ñ y acentos, mando web sin zoom con controles IPTV y reproduccion de musica en USB"
+  "versionCode": 29,
+  "versionName": "3.4.2",
+  "downloadUrl": "https://raw.githubusercontent.com/oyi2000/clickOS-releases/main/ClickOS.apk",
+  "changelog": "Explorador USB por carpetas y reproductor multimedia dedicado para videos y musica"
 }
