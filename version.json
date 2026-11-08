@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "3.4.4",
+  "versionCode": 32,
+  "versionName": "3.4.5",
   "downloadUrl": "https://raw.githubusercontent.com/oyi2000/clickOS-releases/main/ClickOS.apk",
-  "changelog": "Rediseño completo del explorador USB sin filtros de categorías y nuevo reproductor multimedia estilo Apple Music con reproducción continua de carpeta y aleatorio"
+  "changelog": "Rediseño visual completo del Explorador USB estilo macOS/Apple Music, soporte nativo de fotos JPG/PNG, PDF, Word, Excel y reproducción continua/aleatoria"
 }
